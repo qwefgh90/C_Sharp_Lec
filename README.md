@@ -5,3 +5,4 @@
 - http://www.codeproject.com
 - http://net-informations.com/
 - https://www.microsoft.com/en-us/learning/companion-moc.aspx
+- https://www.microsoft.com/en-us/download/confirmation.aspx?id=7029
