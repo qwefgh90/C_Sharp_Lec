@@ -1,0 +1,8 @@
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:sys="clr-namespace:System;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" >
+  <WrapPanel Background="LightBlue" Width="254" Height="197">
+     <Button Width="200">Button 1</Button>
+     <Button>Button 2</Button>
+     <Button Width="100">Button 3</Button>
+     <Button>Button 4</Button>
+  </WrapPanel>
+</Page>

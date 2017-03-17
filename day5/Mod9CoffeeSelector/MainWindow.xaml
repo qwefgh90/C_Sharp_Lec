@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Mod9CoffeeSelector" x:Class="Mod9CoffeeSelector.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <local:CoffeeSelector x:Name="coffee1" HorizontalAlignment="Left" Margin="90,16,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="293" Width="345" OrderPlaced="CoffeeSelector_OrderPlaced">
+            <local:CoffeeSelector.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.171"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:CoffeeSelector.RenderTransform>
+        </local:CoffeeSelector>
+        <Label HorizontalAlignment="Left" Margin="39,119,0,0" VerticalAlignment="Top">
+            <Label x:Name="label1" Content="Label"/>
+        </Label>
+
+    </Grid>
+</Window>

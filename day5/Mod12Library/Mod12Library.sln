@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod12Library", "Mod12Library.csproj", "{F2535484-1B44-4E7E-BFC2-EEBD8BCCF2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod12UseLibrary", "..\Mod12UseLibrary\Mod12UseLibrary.csproj", "{2DEDCAC2-A931-45C7-BFEF-75FD2F60023D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2535484-1B44-4E7E-BFC2-EEBD8BCCF2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2535484-1B44-4E7E-BFC2-EEBD8BCCF2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2535484-1B44-4E7E-BFC2-EEBD8BCCF2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2535484-1B44-4E7E-BFC2-EEBD8BCCF2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEDCAC2-A931-45C7-BFEF-75FD2F60023D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEDCAC2-A931-45C7-BFEF-75FD2F60023D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEDCAC2-A931-45C7-BFEF-75FD2F60023D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEDCAC2-A931-45C7-BFEF-75FD2F60023D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
